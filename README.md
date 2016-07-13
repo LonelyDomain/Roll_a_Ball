@@ -1,4 +1,3 @@
-https://lonelydomain.github.io/Roll_a_Ball/
 #Roll a Ball Tutorial
 
 [Web Build](https://lonelydomain.github.io/Roll_a_Ball/)
